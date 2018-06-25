@@ -1,0 +1,17 @@
+
+[
+	{
+	"id": 1,
+	"titulo": "jogo1",
+	"sinopse": "descricao descricao descricao descricao descricao descricao",
+	"img": "jogo.jpg",
+	"classificacao": "3"  
+	},
+	{
+	"id":2,
+	"titulo": "jogo2",
+	"sinopse": "descricao descricao descricao descricao descricao descricao",
+	"img": "jogo.jpg",
+	"classificacao": "3"  
+	}
+]
